@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bipanareg212
+- 👋 Hi, I’m Bipana Regmi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on software devloping
